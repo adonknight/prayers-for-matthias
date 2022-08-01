@@ -30,6 +30,11 @@ p {
     color: white;
   }
 
+.dark-mode #lightmode {
+    background-color: white;
+    color: black;
+}
+
 .item {
     text-align: center;
 }
@@ -56,11 +61,6 @@ p {
 #darkmode {
     background-color: black;
     color: white;
-}
-
-#lightmode {
-    background-color: white;
-    color: black;
 }
 
 .divchanger {
