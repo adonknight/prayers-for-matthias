@@ -1,0 +1,86 @@
+body {
+    background-color: white;
+    text-align: center;
+    padding: 1vwmax;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-variant-caps: small-caps;
+    margin-left: 5vw;
+    margin-right: 5vw; 
+
+}
+
+h2 {
+    font-variant-caps: small-caps;
+    font-weight: normal;
+    margin-left: 8vw;
+    margin-right: 8vw; 
+}
+
+p {
+    margin-left: 10vw;
+    margin-right: 10vw; 
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+.item {
+    text-align: center;
+}
+
+.togglebut {
+    width: 40vw;
+    height: 5vh;
+    font-variant-caps: small-caps;
+    font-weight: bolder;
+    border: 2px solid gray;
+    border-radius: 3px;
+}
+
+.togglebut:hover {
+    width: 41vw;
+    height: 5vh;
+}
+
+.togglebut:focus {
+    width: 42vw;
+    height: 5vh;
+}
+
+#darkmode {
+    background-color: black;
+    color: white;
+}
+
+.divchanger {
+    width: 60vw;
+    height: 5vh;
+    font-variant-caps: small-caps;
+    font-weight: bolder;
+    background-color: lightgray;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.divchanger:hover {
+    width: 61vw;
+    height: 5.3vh;
+}
+
+.divchanger:active {
+    width: 60.5vw;
+    height: 5.15vh;
+}
+
+footer {
+    margin-top: 5%;
+    display: block;
+    bottom: 5%;
+    font-style: italic;
+}
