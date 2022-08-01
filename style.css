@@ -58,6 +58,11 @@ p {
     color: white;
 }
 
+#lightmode {
+    background-color: white;
+    color: black;
+}
+
 .divchanger {
     width: 60vw;
     height: 5vh;
